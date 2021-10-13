@@ -1,5 +1,4 @@
-CURRICULUM VITAE
-- Ong Ser Thong Godfrey 王 赐 通
+- CURRICULUM VITAE: Ser Thong, Ong Godfrey 王 赐 通
 - MBA (Adelaide), QMR (SAPI), SDFEM (NP), Dip Th, BA Min (Minor in CE), Soltam Systems (EP), FinTech Senior Developer (NUS School of Computing)
 - https://github.com/godfrey0/cv | https://v2.credential.net/profile/ongserthong325210/wallet | www.linkedin.com/in/godfrey0 | 
 - https://www.researchgate.net/profile/ong-godfrey | serthongong@gmail.com | +65 81813136   
@@ -15,27 +14,15 @@ CORE COMPETENCE
 - Developers Toolkit: APIs, RPA, Bots and in connecting the Frontend, Middleware to Backend. 
 - JavaScript, Design, Python, HMTL, CSS, Node.js, Python, IDE, Github, Replit, Scrum and Agile. 
 - 
-DEED
-- Awarded an overseas course of study by the Government of Singapore, with six-year overseas bond obligations.
+- DEED: An overseas course of study awarded by the Government of Singapore, with six-year overseas bond obligations.
 -
-MOTTO
-- Theologian Bernard L. Ramm shared that life begins at 72!
+- MOTTO: Theologian Bernard L. Ramm shared that life begins at 72!
 -
-COMPLETED PROJECT 
-- CS50 edX course of study by Harvard and MIT, May ~ June 2021
-- HTML CSS JavaScript Node.js Python collaboration IDE with Github and Replit
-- https://courses.edx.org/certificates/c113602fc5ec40069ab34fe1c61c4af7
-- https://godfrey0.github.io/IroIroJapaneseRestaurant
-- https://iro-iro.iroirojpnrest.repl.co
-- 
-NUS School of Computing, Professional Certificate in FinTech Associate (Level 1), Developer (Level 2) and Senior Developer (Level 3).
-- https://credentials.nus.edu.sg/e0c4c80e-b26e-4d69-9424-9ee545856256
-- https://credentials.nus.edu.sg/550e68e9-41c4-48c3-81f8-a873bf38baae
-- https://credentials.nus.edu.sg/c2a0722f-5e26-4fff-a375-bea591d7b6e5
-NUS Faculty of Arts and Social Sciences, Professional Certificate in Human and Automated Managerial Skills 
-- https://credentials.nus.edu.sg/290ae581-5b3a-47bb-95d9-814bcc7632c1
-NUS School of Computing, Professional Certificate in Analytics and AI for Finance, Retail and Supply Chain
-- https://credentials.nus.edu.sg/32462661-896e-43a2-9971-5c6d11fc7694
+Professional Certificate: FinTech Senior Developer (Level 3) NUS School of Computing
+- FinTech Developer (NUS SoC)
+- FinTech Associate (NUS SoC)
+- Human and Automated Managerial Skills (NUS Faculty of Arts and Social Sciences)
+- Analytics and AI for Finance, Retail and Supply Chain (NUS SoC)
 - 
 MBA., Adelaide Business School, University of Adelaide 2001
 - Ranked #1 in South Australia and #2 in Australia, AFR BOSS 2020.
