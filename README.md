@@ -1,6 +1,6 @@
 CURRICULUM VITAE
 - Ong Ser Thong Godfrey 王 赐 通
-- NUS SoC FinTech Developer, QMR (SAPI), SDFEM (NP), Dip Th, BA Min (Minor in CE), Soltam Systems (EP), MBA (Adelaide)
+- MBA (Adelaide), QMR (SAPI), SDFEM (NP), Dip Th, BA Min (Minor in CE), Soltam Systems (EP), FinTech Senior Developer (NUS School of Computing)
 - https://github.com/godfrey0/cv | https://v2.credential.net/profile/ongserthong325210/wallet | www.linkedin.com/in/godfrey0 | 
 - https://www.researchgate.net/profile/ong-godfrey | serthongong@gmail.com | +65 81813136   
 - 
