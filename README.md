@@ -1,6 +1,6 @@
-CURRICULUM VITAE: Ser Thong, Ong Godfrey 王 赐 通
+CURRICULUM VITAE: Ser Thong, Ong Godfrey 王 赐 通 +65 8181 3136
 - MBA (Adelaide), QMR (SAPI), SDFEM (NP), Dip Th, BA Min (Minor in CE), Soltam Systems (EP), FinTech Senior Developer Level 3 (NUS School of Computing)
-- https://v2.credential.net/profile/ongserthong325210/wallet | www.linkedin.com/in/godfrey0 | https://github.com/godfrey0/cv | https://iro-iro.iroirojpnrest.repl.co | serthongong@gmail.com | +65 81813136   
+- https://v2.credential.net/profile/ongserthong325210/wallet | www.linkedin.com/in/godfrey0 | https://github.com/godfrey0/cv | https://iro-iro.iroirojpnrest.repl.co | serthongong@gmail.com 
 - 
 CAREER SUMMARY: 
 - Earlier in career was awarded an overseas course of study by the Government of Singapore. Many years of experience from the Engineering to Life science to Information Technology to the Supply Chain. Making crossover through mid-career switch from Information technology, dare to seek employment by counting on the fresh capacity building skills from NUS SoC and in conjunction with unique set of experience from the supply chain, factoring, dotcom, brown and white, web-based, finance and among others. My forte is in the ability, to comprehend the concepts from helicopter view, to think critically and to iron out the rough patches.
@@ -24,9 +24,9 @@ MOTTO:
 PROFESSIONAL CERTIFICATE: 
 - FinTech Associate (NUS SoC) 
 - FinTech Developer (NUS SoC)
-- FinTech Senior Developer (NUS School of Computing)
+- FinTech Senior Developer (NUS SoC)
 - Human and Automated Managerial Skills (NUS Faculty of Arts and Social Sciences)
-- Analytics and AI for Finance, Retail and Supply Chain (NUS SoC)
+- Analytics and AI for Finance, Retail and Supply Chain (NUS School of Computing)
 - 
 MBA., Adelaide Business School, University of Adelaide 2001
 - Ranked #1 in South Australia and #2 in Australia, AFR BOSS 2020.
