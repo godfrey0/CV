@@ -4,11 +4,9 @@ CURRICULUM VITAE
 - https://github.com/godfrey0/cv | https://v2.credential.net/profile/ongserthong325210/wallet | www.linkedin.com/in/godfrey0 | 
 - https://www.researchgate.net/profile/ong-godfrey | serthongong@gmail.com | +65 81813136   
 - 
-CAREER SUMMARY
-- Earlier in career was awarded an overseas course of study by the Government of Singapore. Many years of experience from the Engineering to Life science to Information Technology to the Supply Chain. Making crossover through mid-career switch from Information technology, dare to seek employment by counting on the fresh capacity building skills from NUS School of Computing and in conjunction with unique set of experience from the supply chain, factoring, dotcom, brown and white, web-based, finance and among others. My forte is in the ability, to comprehend the concepts from helicopter view, to think critically and to iron out the rough patches.
+- CAREER SUMMARY: Earlier in career was awarded an overseas course of study by the Government of Singapore. Many years of experience from the Engineering to Life science to Information Technology to the Supply Chain. Making crossover through mid-career switch from Information technology, dare to seek employment by counting on the fresh capacity building skills from NUS School of Computing and in conjunction with unique set of experience from the supply chain, factoring, dotcom, brown and white, web-based, finance and among others. My forte is in the ability, to comprehend the concepts from helicopter view, to think critically and to iron out the rough patches.
 -
-ASPIRE
-- In preparation to join in connecting FinTech.
+- ASPIRE: In preparation to join in connecting FinTech.
 - 
 CORE COMPETENCE
 - Algorithm, Block chain, Supply chain, NUS money ...
