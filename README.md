@@ -6,7 +6,7 @@ CAREER SUMMARY:
 - Earlier in career was awarded an overseas course of study by the Government of Singapore. Many years of experience from the Engineering to Life science to Information Technology to the Supply Chain. Making crossover through mid-career switch from Information technology, dare to seek employment by counting on the fresh capacity building skills from NUS SoC and in conjunction with unique set of experience from the supply chain, factoring, dotcom, brown and white, web-based, finance and among others. My forte is in the ability, to comprehend the concepts from helicopter view, to think critically and to iron out the rough patches.
 -
 ASPIRE: 
-- In preparation to join in connecting FinTech.
+- In preparation to connecting FinTech.
 - 
 CORE COMPETENCE:
 - Algorithm, Block chain, Supply chain, NUS money ...
