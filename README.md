@@ -16,9 +16,11 @@ CORE COMPETENCE
 - Developers Toolkit: APIs, RPA, Bots and in connecting the Frontend, Middleware to Backend. 
 - JavaScript, Design, Python, HMTL, CSS, Node.js, Python, IDE, Github, Replit, Scrum and Agile. 
 - 
-DEED: An overseas course of study awarded by the Government of Singapore, with six-year overseas bond obligations.
+DEED: 
+- An overseas course of study awarded by the Government of Singapore, with six-year overseas bond obligations.
 -
-MOTTO: Theologian Bernard L. Ramm shared that life begins at 72!
+MOTTO: 
+- Theologian Bernard L. Ramm shared that life begins at 72!
 -
 PROFESSIONAL CERTIFICATE: FinTech Senior Developer (Level 3) NUS School of Computing
 - FinTech Developer (NUS SoC)
