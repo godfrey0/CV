@@ -1,7 +1,6 @@
 CURRICULUM VITAE: Ser Thong, Ong Godfrey 王 赐 通
 - MBA (Adelaide), QMR (SAPI), SDFEM (NP), Dip Th, BA Min (Minor in CE), Soltam Systems (EP), FinTech Senior Developer (NUS School of Computing)
-- https://github.com/godfrey0/cv | https://v2.credential.net/profile/ongserthong325210/wallet | www.linkedin.com/in/godfrey0 | 
-- https://www.researchgate.net/profile/ong-godfrey | serthongong@gmail.com | +65 81813136   
+- https://github.com/godfrey0/cv | https://v2.credential.net/profile/ongserthong325210/wallet | www.linkedin.com/in/godfrey0 | serthongong@gmail.com | +65 81813136   
 - 
 CAREER SUMMARY: 
 - Earlier in career was awarded an overseas course of study by the Government of Singapore. Many years of experience from the Engineering to Life science to Information Technology to the Supply Chain. Making crossover through mid-career switch from Information technology, dare to seek employment by counting on the fresh capacity building skills from NUS School of Computing and in conjunction with unique set of experience from the supply chain, factoring, dotcom, brown and white, web-based, finance and among others. My forte is in the ability, to comprehend the concepts from helicopter view, to think critically and to iron out the rough patches.
@@ -47,7 +46,7 @@ SDFEM., Ngee Ann Polytechnic 2015
 - Franchising and Licensing Association (Singapore)
 -
 EXPERIENCE
-- Acquainted with supply chain, brown & white, project management, network, dotcom, hardware, software, biz-safe, construction, operation and finance industry.
+- Acquainted with supply chain, brown & white, project management, network, dotcom, hardware, software, biz-safe, construction and finance industry.
 - 
 SUCCESS FOREVER
 - Project Manager 2018~2020
@@ -60,15 +59,12 @@ ETANA RESOURCES
 TRADISITICS
 - Technical Officer 2000~2017
 - secure information communications technology project, SLA, KPI and completion of contractual obligation for call and service centre
-- - AIG | AHA | Gain City Engineering | Nojima Courts Megastore | Harvey Norman | Best Denki Takashimaya | Challengers Superstore | 
-- - IC Frith | NTUC Club | NTUC FairPrice | Cheers | ESSO |Mobil | Office 1 | Packard Bell | Gigabyte (Taiwan) | NEC computers International | 
-- - DHL (Malaysia) | IDA Infocomm Media Authority of Singapore |
+- - AIG | AHA | Gain City Engineering | Nojima Courts Megastore | Harvey Norman | Best Denki Takashimaya | Challengers Superstore | IC Frith | NTUC Club | 
+- - NTUC FairPrice | Cheers | Office 1 | Packard Bell | Gigabyte (Taiwan) | NEC computers | DHL (Malaysia) | IDA Infocomm Media Authority of Singapore |
 -
 MINUS 10 Challenger Technologies Limited
 - Information Officer 2000~2001
-- 
-- In-charge:
-- lobby multimedia super corridor Malaysia, e-Commerce, payment gateway with banks, supply chain financing, dot com contracts, web-based centric activity, JIT stocks inventory
+- lobby @ multimedia super corridor Malaysia, e-Commerce, payment gateway with banks, supply chain, dot com contracts and web-based centric activity
 -
 SANOFI RHONE POULENC PHARMA 1993~2001
 - Executive
