@@ -46,39 +46,20 @@ SDFEM., Ngee Ann Polytechnic 2015
 - Specialist Diploma Franchise Enterprise Management
 - Franchising and Licensing Association (Singapore)
 -
-LEARNING EXPERIENCE
-- NUS FinTech School of Computing Batch 5, February ~ November 2021
--
 EXPERIENCE
 - Acquainted with supply chain, brown & white, project management, network, dotcom, hardware, software, biz-safe, construction, operation and finance industry.
 - 
 SUCCESS FOREVER
 - Project Manager 2018~2020
--
-- In-charge:
-- budget, financial forecasting, factoring, project, KPI with HDB, succeed in completing the project
+- secure construction project, SLA, KPI and completion of HDB and Town Council based upgrading
 -
 ETANA RESOURCES
 - Senior Engineer 2017~2018
+- maintenance of heavy equipment and triple F functioning tests
 - 
-- In-charge:
-- maintenance of heavy SAF equipment, FH 2000, LWH Pegasus, SSPH 1 Primus, triple F testing
--
 TRADISITICS
 - Technical Officer 2000~2017
-- 
-- In-charge:
-- budget, financial forecasting, factoring, supply chain financing, contractual obligation, call centre, service centre
--  
-(local and global brand products) 
-- - American Home Assurance (Extended Warranty) 
-- - Doctor Digital (Courts Megastore)
-- - Data Recovery (Best Denki Takashimaya)
-- - IDA NEU PC (Infocomm Media Authority)
-- - Best Denki Singapore (Safety 5 EW)  
-- - U-Save (NTUC FairPrice)
--
-(local and global brand partners) 
+- secure information communications technology project, SLA, KPI and completion of contractual obligation for call and service centre
 - - AIG | AHA | Gain City Engineering | Nojima Courts Megastore | Harvey Norman | Best Denki Takashimaya | Challengers Superstore | 
 - - IC Frith | NTUC Club | NTUC FairPrice | Cheers | ESSO |Mobil | Office 1 | Packard Bell | Gigabyte (Taiwan) | NEC computers International | 
 - - DHL (Malaysia) | IDA Infocomm Media Authority of Singapore |
