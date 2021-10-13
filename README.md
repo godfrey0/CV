@@ -3,7 +3,7 @@ CURRICULUM VITAE: Ser Thong, Ong Godfrey 王 赐 通
 - https://v2.credential.net/profile/ongserthong325210/wallet | www.linkedin.com/in/godfrey0 | https://github.com/godfrey0/cv | serthongong@gmail.com | +65 81813136   
 - 
 CAREER SUMMARY: 
-- Earlier in career was awarded an overseas course of study by the Government of Singapore. Many years of experience from the Engineering to Life science to Information Technology to the Supply Chain. Making crossover through mid-career switch from Information technology, dare to seek employment by counting on the fresh capacity building skills from NUS School of Computing and in conjunction with unique set of experience from the supply chain, factoring, dotcom, brown and white, web-based, finance and among others. My forte is in the ability, to comprehend the concepts from helicopter view, to think critically and to iron out the rough patches.
+- Earlier in career was awarded an overseas course of study by the Government of Singapore. Many years of experience from the Engineering to Life science to Information Technology to the Supply Chain. Making crossover through mid-career switch from Information technology, dare to seek employment by counting on the fresh capacity building skills from NUS SoC and in conjunction with unique set of experience from the supply chain, factoring, dotcom, brown and white, web-based, finance and among others. My forte is in the ability, to comprehend the concepts from helicopter view, to think critically and to iron out the rough patches.
 -
 ASPIRE: 
 - In preparation to join in connecting FinTech.
@@ -180,12 +180,6 @@ OTHERS
 - MOM, Certified Biz Safe Level 1,2 & 3 Risk Management 2016
 - GCE O Level distinction in Mathematics, Biology, History, Bible Knowledge 1981
 - Unarmed Combat Instructor, SAFTI School of Physical Training Institute, 1980
-- Armament Tech Class 1, Ordnance Engineering Training Institute, 1981
-- Armourer to Gunfitter Conversion Course, SAF OETI, 1977
-- Gunfitter to Armourer Conversion Course, SAF OETI, 1977
-- Gunfitter to Turret Mech Conversion Course, SAF OETI, 1977
-- Armourer Cl 1, SAF WOB, 1976
-- Armourer Cl 2, SAF WOB, 1974
 - MOH, ART Self-Swab, Health Management International 2021
 - MOH, SRS-ESSS, HPB, Health Promotion Board 2021
 - SFA, Food Hygiene Course by Chef Henry Lin JinQian ex-MBS & Fullerton 2021 
