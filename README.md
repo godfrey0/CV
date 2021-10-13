@@ -90,65 +90,45 @@ SILAT II PRIMARY SCHOOL 1983~1983
 - Mathematics
 - 
 IDF
-- Live fire test M72 armament system on Sinai Desert, Egypt 1976
+- Live fire M72 armament system on Sinai Desert, Egypt 1976
 -
 SAF
-- Live fire test M114 and M68 armament system support South Starlight, Taiwan 1978
+- Live fire M114 and M68 armament support South Starlight, Taiwan 1978
 -
 SAF OETI, School of Doctrine 1973~1983
 - Lead Invigilator
 - Ordnance Engineering Training Institute
 -
 -
-EDUCATION
-- National University of Singapore, SoC 2021~Present
+EDUCATION: https://v2.credential.net/profile/ongserthong325210/wallet
 -
 NUS SoC, Professional Certificate in FinTech Senior Developer (Level 3)
-- https://credentials.nus.edu.sg/c2a0722f-5e26-4fff-a375-bea591d7b6e5 
 - - courses completed:
 - DevOps: Build, Deploy and Monitor
-- https://bit.ly/3821wLj
 - Making Smart Contracts and Blockchain 
-- https://bit.ly/37ScN0Z
 - Algo-trading: Theory and Practice
-- https://bit.ly/3geTJys
 -
 - NUS SoC, Professional Certificate in FinTech Developer (Level 2)
-- https://credentials.nus.edu.sg/550e68e9-41c4-48c3-81f8-a873bf38baae
 - - courses completed:
 - Developers Toolkit Part 1: Connecting the Frontend
-- https://bit.ly/3k86egd
 - Developers Toolkit Part 2: Middleware to Backend
-- https://bit.ly/2WaOxER
 - APIs and RPA: Automation, Bots and Future
-- https://bit.ly/3z1tmU6
 -
 - NUS SoC, Professional Certificate in FinTech Associate (Level 1)
-- https://credentials.nus.edu.sg/e0c4c80e-b26e-4d69-9424-9ee545856256
 - - courses completed:
 - FinTech: Concepts, Cases and Technology
-- https://bit.ly/3iX74wX
 - Design Thinking: Creative and Strategic Business Solutions
-- https://bit.ly/2W681up
 - Beyond Disruptions: Digitalising Financial Services
-- https://bit.ly/3xXiyox
 - Delight Customers and Protect Privacy with AI and Blockchain
-- https://bit.ly/3D03FFW
 - 
 - NUS SoC, Professional Certificate in Business Analytics and AI for Finance, Retail and Supply Chain
-- https://credentials.nus.edu.sg/32462661-896e-43a2-9971-5c6d11fc7694
 - - courses completed:
 - Making Fast Decisions with Business Analytics
-- https://bit.ly/2UzwEPs
 - Optimizing Customers’ Experience with Fintech Strategy
-- https://bit.ly/3k6t6wJ
 - Using Business Analytics to Answer Business Questions
-- https://bit.ly/3geOX47
 - Fundamental of Investing Leveraging Technology
-- https://bit.ly/3z0tlQ1
 -
 - NUS Faculty of Arts and Social Sciences Professional Certificate Human and Automated Managerial Skills
-- https://credentials.nus.edu.sg/290ae581-5b3a-47bb-95d9-814bcc7632c1
 - - courses completed:
 - Meaning to Mindsets
 - Positivity and Wellbeing
@@ -216,10 +196,10 @@ ACCOLADE
 - Spirit Of Enterprise Awards nominee 2012
 - Singapore Quality Class Awards nominee 2011
 - Workplace Safety Health Council BizSAFE Level 3
-- Letter of Commendation FairPrice
-- Letter of Commendation NTUC Club
-- Letter of Commendation AIG AHA SE Asia (Singapore)
-- Letter of Commendation DHL Supply Chain (Malaysia)
+- LoC FairPrice
+- LoC NTUC Club
+- LoC AIG AHA SE Asia (Singapore)
+- LoCDHL Supply Chain (Malaysia)
 - SAF Gold Medal Team Falling Plates Champion 1975
 - SAF Good Service Medal 1977
 - 
