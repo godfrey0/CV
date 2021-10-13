@@ -94,7 +94,7 @@ SAF OETI, School of Doctrine 1973~1983
 EDUCATION: 
 - https://v2.credential.net/profile/ongserthong325210/wallet
 -
-NUS SoC, Professional Certificate in FinTech Senior Developer (Level 3)
+- NUS SoC, Professional Certificate in FinTech Senior Developer (Level 3)
 - - courses completed:
 - DevOps: Build, Deploy and Monitor
 - Making Smart Contracts and Blockchain 
