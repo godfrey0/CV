@@ -59,45 +59,37 @@ ETANA RESOURCES
 TRADISITICS
 - Technical Officer 2000~2017
 - secure information communications technology project, SLA, KPI and completion of contractual obligation for call and service centre
-- - AIG | AHA | Gain City Engineering | Nojima Courts Megastore | Harvey Norman | Best Denki Takashimaya | Challengers Superstore | IC Frith | NTUC Club | 
-- - NTUC FairPrice | Cheers | Office 1 | Packard Bell | Gigabyte (Taiwan) | NEC computers | DHL (Malaysia) | IDA Infocomm Media Authority of Singapore |
+- - AIG | AHA | Gain City Engineering | Nojima Courts Megastore | Harvey Norman | Best Denki Takashimaya | Challengers Superstore | IC Frith | NTUC Club | NTUC FairPrice | Cheers | Office 1 | Packard Bell | Gigabyte (Taiwan) | NEC computers | DHL (Malaysia) | IDA Infocomm Media Authority of Singapore |
 -
 MINUS 10 Challenger Technologies Limited
 - Information Officer 2000~2001
-- lobby @ multimedia super corridor Malaysia, e-Commerce, payment gateway with banks, supply chain, dot com contracts and web-based centric activity
+- lobby @ multimedia super corridor Malaysia, e-Commerce, dot com contracts and web-based centric activity
 -
 SANOFI RHONE POULENC PHARMA 1993~2001
 - Executive
-- Consumable Drugs
-- Vaccines
+- Consumable Drugs and vaccines
 -
 ELTEAN AGENCIES 1990~1993
 - Executive
 - Watsons, Guardian, Apex, Unity, SGH, NSC, Clinics and Polyclinics.
 - 
 BETHESDA HALL AMK 1989~1990
-- Lead Instructor
-- Queensland Mailbox Bible Correspondence Course
+- Lead Instructor, Queensland Mailbox Bible Correspondence Course
 - Cassette tapes Program
 - 
 BOOKWORMS CONSULTANTS 1983~1984
-- Media Manager
-- Primary Schools
+- Media Manager, Primary Schools
 - Organised on-stage Life Show
 - 
 SILAT II PRIMARY SCHOOL 1983~1983
-- Relief Teacher
-- Mathematics
+- Relief Mathematics Teacher
 - 
 IDF
 - Live fire M72 armament system on Sinai Desert, Egypt 1976
 -
-SAF
-- Live fire M114 and M68 armament support South Starlight, Taiwan 1978
--
 SAF OETI, School of Doctrine 1973~1983
-- Lead Invigilator
-- Ordnance Engineering Training Institute
+- Lead Invigilator, Ordnance Engineering Training Institute
+- Live fire M114 and M68 armament support South Starlight, Taiwan 1978
 -
 EDUCATION: 
 - https://v2.credential.net/profile/ongserthong325210/wallet
