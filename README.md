@@ -22,9 +22,10 @@ DEED:
 MOTTO: 
 - Theologian Bernard L. Ramm shared that life begins at 72!
 -
-PROFESSIONAL CERTIFICATE: FinTech Senior Developer (Level 3) NUS School of Computing
+PROFESSIONAL CERTIFICATE: 
+- FinTech Associate (NUS SoC) 
 - FinTech Developer (NUS SoC)
-- FinTech Associate (NUS SoC)
+- FinTech Senior Developer (NUS School of Computing)
 - Human and Automated Managerial Skills (NUS Faculty of Arts and Social Sciences)
 - Analytics and AI for Finance, Retail and Supply Chain (NUS SoC)
 - 
