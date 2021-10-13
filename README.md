@@ -8,7 +8,7 @@ CAREER SUMMARY:
 ASPIRE: 
 - In preparation to join in connecting FinTech.
 - 
-CORE COMPETENCE
+CORE COMPETENCE:
 - Algorithm, Block chain, Supply chain, NUS money ...
 - FinTech concepts, cases, technology, AI, ML, Digitalising. 
 - DevOps: Build, Deploy, Monitor, Blockchain and Algo-trading.
@@ -99,7 +99,8 @@ SAF OETI, School of Doctrine 1973~1983
 - Lead Invigilator
 - Ordnance Engineering Training Institute
 -
-EDUCATION: https://v2.credential.net/profile/ongserthong325210/wallet
+EDUCATION: 
+- https://v2.credential.net/profile/ongserthong325210/wallet
 -
 NUS SoC, Professional Certificate in FinTech Senior Developer (Level 3)
 - - courses completed:
