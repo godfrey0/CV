@@ -23,10 +23,6 @@ DEED
 MOTTO
 - Theologian Bernard L. Ramm shared that life begins at 72!
 -
-FINAL PROJECT 
-- Showcase NUS SGUS FinTech Batch 5F solo capacity, August ~ November 2021
-- Quant Connect Submitting Alpha with Professor Anand Bhojan the Instructor and Mentor by PhD candidate Dixtant Mittal 
-- 
 COMPLETED PROJECT 
 - CS50 edX course of study by Harvard and MIT, May ~ June 2021
 - HTML CSS JavaScript Node.js Python collaboration IDE with Github and Replit
@@ -44,7 +40,6 @@ NUS School of Computing, Professional Certificate in Analytics and AI for Financ
 - https://credentials.nus.edu.sg/32462661-896e-43a2-9971-5c6d11fc7694
 - 
 MBA., Adelaide Business School, University of Adelaide 2001
-- Read Economic under Professor Clifford Walsh (Nobel prize nominee) 
 - Ranked #1 in South Australia and #2 in Australia, AFR BOSS 2020.
 - 
 Dip. Th., Singapore Bible College 1987
