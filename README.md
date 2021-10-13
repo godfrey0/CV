@@ -8,17 +8,17 @@ CAREER SUMMARY
 - Earlier in career was awarded an overseas course of study by the Government of Singapore. Many years of experience from the Engineering to Life science to Information Technology to the Supply Chain. Making crossover through mid-career switch from Information technology, dare to seek employment by counting on the fresh capacity building skills from NUS School of Computing and in conjunction with unique set of experience from the supply chain, factoring, dotcom, brown and white, web-based, finance and among others. My forte is in the ability, to comprehend the concepts from helicopter view, to think critically and to iron out the rough patches.
 -
 ASPIRE
-- In preparation to join as the developer in connecting FinTech.
+- In preparation to join in connecting FinTech.
 - 
-SKILLS
+CORE COMPETENCE
 - Algorithm, Block chain, Supply chain, NUS money ...
 - FinTech concepts, cases, technology, AI, ML, Digitalising. 
 - DevOps: Build, Deploy, Monitor, Blockchain and Algo-trading.
 - Developers Toolkit: APIs, RPA, Bots and in connecting the Frontend, Middleware to Backend. 
-- edX by Harvard and MIT: JavaScript, Design, Python, HMTL, CSS, Node.js, Python, IDE, Github, Replit, Scrum and Agile. 
+- JavaScript, Design, Python, HMTL, CSS, Node.js, Python, IDE, Github, Replit, Scrum and Agile. 
 - 
 DEED
-- At 19 was awarded an overseas course of study by the Government of Singapore, with six-year overseas bond obligations.
+- Awarded an overseas course of study by the Government of Singapore, with six-year overseas bond obligations.
 -
 MOTTO
 - Theologian Bernard L. Ramm shared that life begins at 72!
